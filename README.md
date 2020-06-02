@@ -2,7 +2,7 @@
 Building a binary classification model based on Logistic Regression that predicts the number of bike buyers using classification in Machine Learning.
 
 # Overview
-This is a logistic regression model to identify correlations between the following 6 independent customer features and assign label ( or 0) predicting wether the customer will buy a bike or not
+This is a logistic regression model to identify correlations between the following 6 independent customer features and assign label (1 or 0) predicting wether the customer will buy a bike or not
 
 ### Part 1: Data Preprocessing
 ##### 1. Importing the dataset and Feature Selection
